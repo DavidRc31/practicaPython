@@ -1,0 +1,8 @@
+print("    *"*2,sep="-", end="\n")
+print("   * *"*2,sep="-", end="\n")
+print("  *   *"*2,sep="-",end="\n")
+print(" *     *"*2, end="\n")
+print("***   ***"*2,sep="-", end="\n")
+print("  *   *"*2, sep="-", end="\n")
+print("  *   *"*2, sep="-", end="\n")
+print("  *****"*2, sep="-", end="\n")

@@ -16,7 +16,7 @@ class Criptomoneda(object):
     def mostrarNombre(self):
       return self.nombre
  
-    def imostrarCotizacion(self): 
+    def mostrarCotizacion(self): 
       return self.cotizacion
  
     def mostrarSaldo(self):  
